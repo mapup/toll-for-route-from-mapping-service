@@ -1,5 +1,5 @@
 # route_encoded_polyline
-Calculate tolls for routes polylines encoded using Google encoded polyline algorithm or shape (latitude and longitude pairs)
+Calculate tolls for complete route (all latitude, longitude coordinates) from any mapping service.  You can create an encoded polylines (using Google encoded polyline algorithm) or a shape (latitude and longitude pairs)
 
 Click on the folders above to see examples to extend mapping capabilities of any mapping service by adding toll information from [**TollGuru**](https://tollguru.com/) to the route information from Google.
 
